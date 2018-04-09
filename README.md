@@ -5,3 +5,4 @@
 **Часть 2. Sketch Engine**
 ![Image alt](https://github.com/AnastasiaAgapova/hw6/blob/master/4.png)
 ![Image alt](https://github.com/AnastasiaAgapova/hw6/blob/master/5.png)
+![Image alt](https://github.com/AnastasiaAgapova/hw6/blob/master/6.png)
